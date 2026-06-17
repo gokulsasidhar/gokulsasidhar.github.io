@@ -1,12 +1,14 @@
-\---
++++
 
-title: "Testing the Ink"
+title = "Testing the Ink"
 
-date: 2024-01-01
+date = "2024-01-01"
 
-draft: false
+draft = false
 
-\---
++++
+
+
 
 If you can read this, the printing press is officially working perfectly.
 
