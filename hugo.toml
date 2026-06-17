@@ -1,6 +1,6 @@
 baseURL = 'https://gokulsasidhar.github.io/'
 languageCode = 'en-us'
-title = 'Gokul Journal'
+title = 'Gokul'
 theme = 'hugo-bearblog'
 
 [params]
