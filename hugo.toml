@@ -6,3 +6,7 @@ theme = 'hugo-bearblog'
 
 [params]
   mainSections = ['blog']
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 1
