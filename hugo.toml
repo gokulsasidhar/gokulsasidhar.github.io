@@ -6,3 +6,6 @@ theme = 'hugo-bearblog'
 [params]
   mainSections = ['blog']
   hideMadeWithLine = true
+
+[markup.goldmark.renderer]
+  unsafe = true
