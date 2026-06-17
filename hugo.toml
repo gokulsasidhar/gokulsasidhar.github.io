@@ -4,7 +4,8 @@ title = 'Days Spent Here'
 theme = 'hugo-bearblog'
 
 [markup.goldmark.renderer]
-  unsafe = true
+unsafe = true
 
 [params]
 hideMadeWithLine = true
+mainSections = ['']
