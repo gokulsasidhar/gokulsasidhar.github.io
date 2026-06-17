@@ -1,8 +1,12 @@
-+++
-date = '2026-06-16T13:58:24+05:30'
-draft = false
-title = 'Hello'
-+++
+\---
 
-Hello world, this is my first post!
+title: "Testing the Ink"
+
+date: 2024-01-01
+
+draft: false
+
+\---
+
+If you can read this, the printing press is officially working perfectly.
 
