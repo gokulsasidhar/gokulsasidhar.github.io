@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
-theme = "hugo-bearblog"
+baseURL = 'https://gokulsasidhar.github.io/'
+languageCode = 'en-us'
+title = 'Gokul Journal'
+theme = 'hugo-bearblog'
+
+[params]
+  description = "A minimalist space for unhurried thoughts."
